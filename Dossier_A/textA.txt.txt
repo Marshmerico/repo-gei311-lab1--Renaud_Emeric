@@ -1,1 +1,2 @@
 labo 1, gestion de version, Renaud_Emeric
+collaboration avec Nom_etudiant_B
